@@ -2,7 +2,7 @@
 <p style="color: red">Also making 2D games/side-projects at my spare time</p>
 
 <h3 align="left">Languages and Tools:</h3>
-<div align="left" style="display: flex; flex-wrap: wrap; gap: 36px; align-items: center;">
+<div align="left" style="display: flex; flex-wrap: wrap; align-items: center;">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer" title="JavaScript">
     <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="40" height="40"/>
   </a>
