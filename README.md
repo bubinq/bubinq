@@ -1,5 +1,5 @@
-<p>I am a fullstack developer who likes creating software and automating tedius tasks.</p> 
-<p>Also making 2D games/side-projects at my spare time</p>
+<span>I am a fullstack developer who likes creating software and automating tedius tasks.</span> 
+<span>Also making 2D games/side-projects at my spare time</span>
 
 <h3 align="left">Languages and Tools:</h3>
 <div align="left" style="display: flex; flex-wrap: wrap; align-items: center;">
