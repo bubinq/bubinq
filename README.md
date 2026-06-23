@@ -1,4 +1,5 @@
 <span>I am a fullstack developer who likes creating software and automating tedius tasks.</span> 
+<br/>
 <span>Also making 2D games/side-projects at my spare time</span>
 
 <h3 align="left">Languages and Tools:</h3>
