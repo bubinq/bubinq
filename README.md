@@ -1,5 +1,5 @@
 <p>I am a fullstack developer who likes creating software and automating tedius tasks.</p> 
-<p>Also making 2D games/side-projects at my spare time</p>
+<p style="margin-top: -12px">Also making 2D games/side-projects at my spare time</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <div align="left" style="display: flex; flex-wrap: wrap; gap: 12px; align-items: center; margin-bottom: 12px;">
