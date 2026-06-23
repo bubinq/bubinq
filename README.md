@@ -1,4 +1,4 @@
-<h3 align="center">I am a fullstack developer who likes creating software and automating tedius tasks. Also making 2D games/side-projects at my spare time</h3>
+<h4>I am a fullstack developer who likes creating software and automating tedius tasks. Also making 2D games/side-projects at my spare time</h4>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
